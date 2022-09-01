@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: nz.ac.auckland.se281.a2.BurgerShopTestSuite
+-------------------------------------------------------------------------------
+Tests run: 41, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 13.081 s - in nz.ac.auckland.se281.a2.BurgerShopTestSuite
